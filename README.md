@@ -1,8 +1,9 @@
 # docker-image-deployment-zenity
 🚀GUI-based Docker Image Deployment Automation using Bash and Zenity.
 1. Project Overview
+   
 The Docker Image Deployment using Zenity project automates the process of building and pushing Docker images to Docker Hub through a simple graphical interface. The project uses a Bash shell script integrated with Zenity to collect user input, authenticate with Docker Hub, build Docker images from a selected Dockerfile, and upload them to a Docker repository. This automation reduces manual effort, minimizes errors, and improves the efficiency of the deployment process.
-2. Tools Used and Their Role
+3. Tools Used and Their Role
 
 1) Ubuntu ->Linux	Provides the operating system for developing and executing the project.
 2) Docker ->Builds, manages, and pushes Docker images to Docker Hub.
